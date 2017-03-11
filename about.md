@@ -18,9 +18,11 @@ Now I love it!
 
 I started off working on front end technologies like javascript, html and css, and in the past 2 years have worked with jQuery,Knockout and various other javascript libraries in the front, SQL at the back, and C# in between. Oh, and there is also node!
 
-Music is something that has been close to me for a long time, but it became more closer when I started learning the guitar around 5 years ago. I use YouTube very actively, in search of something new to my ears! :D
+Music is my special friend. 
+I started learning the guitar around 5 years ago, and that is when I totally fell into music.
+I use YouTube very actively, in search of something new to listen to.
 
 I'm constantly exploring new things, and there is always an uncertainty as to what I'll be learning next.
-Never stop surprising yourself, every day is a new day!
+Never stop surprising myself, every day is a new day!
 
 Cheers!
