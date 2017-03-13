@@ -2,11 +2,8 @@
 layout: post
 title: Getting started with Functional Programming in C# 
 excerpt: "So what is functional programming?"
-categories: [C#]
+categories: [CSharp]
 tags: [c#,functional programming]
-comments: true
-date: 2017-03-13
-modified: 2017-03-13
 ---
 
 ### What is it?
