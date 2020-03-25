@@ -29,7 +29,7 @@ youtube_url: "https://www.youtube.com/user/boozer47"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
